@@ -43,9 +43,9 @@
   ---
 
 ### :writing_hand: My Projects :
-  <a href="https://abk90133.github.io/Dice-Challenge/" target="_blank">Dice Challenge</td></a>
-  <a href="https://abk90133.github.io/Drum_Kit/" target="_blank">Drum Kit</td></a>
-  <a href="https://abk90133.github.io/The-Simon-Game/" target="_blank">Simon Game</td></a>
+  <p><a href="https://abk90133.github.io/Dice-Challenge/" target="_blank">Dice Challenge</td></a></p>
+  <p><a href="https://abk90133.github.io/Drum_Kit/" target="_blank">Drum Kit</td></a></p>
+  <p><a href="https://abk90133.github.io/The-Simon-Game/" target="_blank">Simon Game</td></a></p>
   
 
 
